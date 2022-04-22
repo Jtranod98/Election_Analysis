@@ -29,18 +29,18 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
--In addition to the above tasks, the requestor also wants the following information:
-2. A list of counties in the election.
-3. The total number of votes in each county.
-3. The percentage of votes of each county.
-4. Determine the county with the largest turnout.
+In addition to the above tasks, the requestor also wants the following information:
+  1. A list of counties in the election.
+  2. The total number of votes in each county.
+  3. The percentage of votes of each county.
+  4. Determine the county with the largest turnout.
 
 ## Challenge Summary
 - The Counties in the election were:
   - Jefferson 
   - Denver 
   - Arapahoe
-- The counties results wre:
+- The counties results were:
   - Jefferson county had 10.5% of the vote and 38,855 number of votes.
   - Denver county had 82.8% of the vote and 306,055 number of votes.
   - Arapahoe county had 6.7% of the vote and 24,801 number of votes.
@@ -48,4 +48,4 @@ The analysis of the election show that:
 
 ## Final Statement
 
--The usefulness of this This script goes beyond this election.  We can use it for other elections with some modifications. For example, we can modify it to determine the voter's political parties, or voter's age group, etc.
+- The usefulness of this this script goes far beyond this election.  For example, it can be use for other elections with some modifications, such as, we can modify it to determine the voter's political parties, voter's age group, etc.
