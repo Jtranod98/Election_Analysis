@@ -1,7 +1,7 @@
 # Election_Analysis
 Python Coding
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections employee has the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -11,7 +11,8 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- Data output: election_results.txt
+- Software: Python 3.7, Visual Studio Code
 
 ## Summary
 The analysis of the election show that:
@@ -28,5 +29,23 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
+-In addition to the above tasks, the requestor also wants the following information:
+2. A list of counties in the election.
+3. The total number of votes in each county.
+3. The percentage of votes of each county.
+4. Determine the county with the largest turnout.
 
 ## Challenge Summary
+- The Counties in the election were:
+  - Jefferson 
+  - Denver 
+  - Arapahoe
+- The counties results wre:
+  - Jefferson county had 10.5% of the vote and 38,855 number of votes.
+  - Denver county had 82.8% of the vote and 306,055 number of votes.
+  - Arapahoe county had 6.7% of the vote and 24,801 number of votes.
+- The largest county turnout was Denver
+
+## Final Statement
+
+-The usefulness of this This script goes beyond this election.  We can use it for other elections with some modifications. For example, we can modify it to determine the voter's political parties, or voter's age group, etc.
